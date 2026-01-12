@@ -5,10 +5,13 @@ My background combines **Signal Processing** & **Communications** (Academic Focu
 
 ---
 
-### 🔭 What I do
+### 🔭 Current Focus
 * **Engineering:** Applying DSP and Communication theory to real-world problems.
-* **Algorithm Implementation:** Building ML models from scratch to understand the math behind the code.
 * **System Integration:** Connecting high-level software (Python) with hardware logic (FPGA, Microcontrollers).
+
+### 🌱 Currently Exploring
+* **Advanced ML:** Implementing algorithms from scratch to deepen mathematical understanding.
+* **Real-Time Systems:** Optimizing Python/C++ code for latency-sensitive applications.
 
 ### 🛠️ Tech Stack
 * **Languages:** Python, C/C++, MATLAB, VHDL.
